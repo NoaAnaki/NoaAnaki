@@ -39,8 +39,8 @@ Built models using Scikit-learn and TensorFlow to tackle structured prediction p
 ---
 
 ### 🤝 Let's Connect  
-📫 [Email](mailto:noa.anaki@example.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/noaanaki)
+📫 [Email](mailto:noa132@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/noa-anaki-8459462b6)
 
 ---
 
